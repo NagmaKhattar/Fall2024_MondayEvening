@@ -20,6 +20,7 @@ public class DemoMondayEvening {
     public static void main(String[] args) 
     {
         // TODO code application logic here
+        //showing fetch and merge
         //making achange on remote
         System.out.println("Hello");
         //gmhdsjkadsl
